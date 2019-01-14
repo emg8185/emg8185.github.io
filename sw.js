@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "css/style.css",
-    "revision": "647b9980f1d24b4e17ed2ead1a154951"
+    "revision": "045601ff4016f2dd46a32705ad69a450"
   },
   {
     "url": "font/NotoSansJP-Bold-sub.woff",
@@ -68,52 +68,20 @@ self.__precacheManifest = [
     "revision": "d5c959ff621972e83a9352011440e698"
   },
   {
+    "url": "img/bg.webp",
+    "revision": "4da7e3d1d0a862dbfeea6dc24317ad2b"
+  },
+  {
     "url": "img/css3.svg",
     "revision": "9d43aed00576b970f464be8365ad77df"
   },
   {
-    "url": "img/emg8185.png",
-    "revision": "b3fc8be8ad2d4da07aef66ef97cf8e9c"
+    "url": "img/emg8185.jpg",
+    "revision": "9506dcba951e31a17c805d18e7387146"
   },
   {
-    "url": "img/favicon/android-chrome-192x192.png",
-    "revision": "5df013b6f01bad3fffa85fca52968c15"
-  },
-  {
-    "url": "img/favicon/android-chrome-512x512.png",
-    "revision": "5cd98a5200bf504f9192c0574e661d65"
-  },
-  {
-    "url": "img/favicon/apple-touch-icon.png",
-    "revision": "fdbdd26f6d9b0bf1b4e90d265c46ada0"
-  },
-  {
-    "url": "img/favicon/favicon-16x16.png",
-    "revision": "8b683a3951f117e034a4c8af2983a002"
-  },
-  {
-    "url": "img/favicon/favicon-32x32.png",
-    "revision": "8bef4dbd347372bd500cfe60e333ba62"
-  },
-  {
-    "url": "img/favicon/mstile-144x144.png",
-    "revision": "8762f9a6afafd5eb892dbd916859bf0d"
-  },
-  {
-    "url": "img/favicon/mstile-150x150.png",
-    "revision": "35fc97d70d95443cf1a51963ba440bd6"
-  },
-  {
-    "url": "img/favicon/mstile-310x150.png",
-    "revision": "726eab8879c56d204cf73f87a401d1ef"
-  },
-  {
-    "url": "img/favicon/mstile-310x310.png",
-    "revision": "ce46feadf189f4b562e56bd2cc9d12ce"
-  },
-  {
-    "url": "img/favicon/mstile-70x70.png",
-    "revision": "8bc26b3fb54c923854f07dd6f02558c8"
+    "url": "img/emg8185.webp",
+    "revision": "0dc75018aa50aec0373e95dc07694a64"
   },
   {
     "url": "img/favicon/safari-pinned-tab.svg",
@@ -149,7 +117,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "352cf3d0fa54f4ce4ee0b78f3e43e4ae"
+    "revision": "a395d2e2174709901f71952e68c6ec07"
   },
   {
     "url": "install-service-worker.html",
